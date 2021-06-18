@@ -1,2 +1,4 @@
 # godot_demo
-Testproject for Godot -Git integration
+Testproject for Godot - Git integration
+
+Happy coding!
