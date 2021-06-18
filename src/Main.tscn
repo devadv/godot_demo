@@ -14,7 +14,7 @@ margin_left = 477.0
 margin_top = 267.0
 margin_right = 553.0
 margin_bottom = 281.0
-text = "Hello World"
+text = "Hello World testing git"
 __meta__ = {
 "_edit_use_anchors_": false
 }
